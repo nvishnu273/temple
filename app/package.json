@@ -1,0 +1,15 @@
+{
+ "main”:”main.js",
+ "version":"0.1.0",
+ "scripts":{
+   "start":"node_modules/.bin/electron main.js"
+ },
+
+  "dependencies": {
+    "google-auth-library": "^0.9.10",
+    "googleapis": "^15.0.0"
+  },
+  "devDependencies": {
+    "electron": "^1.4.13"
+  }
+}
